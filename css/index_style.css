@@ -21,10 +21,63 @@ body {
   padding: 5px;
   background-color: #939393;
   border-radius: 15px;
-  border-width: 2px;
-  border-color:#4c4c4c;
+  border: 4px solid #4c4c4c;
 }
 
 .website_name {
     color:rgb(220, 220, 220)
 }
+
+.content_table {
+  width: fit-content;
+}
+
+.about_me {
+  align-content: center;
+  background-color: #939393;
+  border-radius: 15px;
+  border: 4px solid #4c4c4c;
+}
+
+.side_bar {
+  align-content: left;
+  background-color: #939393;
+  border-radius: 15px;
+  border: 4px solid #4c4c4c;
+}
+
+.sidelink {
+  display: block;
+}
+
+a {
+  align-items: center;
+  text-decoration: none;
+  color:rgb(220, 220, 220);
+  font-size: 20px;
+  padding: 5px;
+}
+a:hover {
+  color: rgb(170,170,170);
+  font-family: "Nunito", sans-serif;
+  font-size: 32px;
+}
+
+.table {
+  margin-left: 11.5% auto;
+  margin-right: auto;
+  display: block;
+}
+
+.table td {
+  vertical-align: top;
+  padding: 0px;
+  position: relative;
+ }
+
+.table tr {
+  vertical-align: top;
+  padding: 0px;
+  position: relative;
+}
+/*ПАСХАЛКОООО*/
