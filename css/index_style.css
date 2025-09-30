@@ -17,6 +17,8 @@ body {
   padding: 5px;
   background-color: #939393;
   border-radius: 15px;
+  border-width: 10px;
+  border-color:#4c4c4c;
 }
 
 .website_name {
