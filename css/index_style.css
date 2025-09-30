@@ -4,12 +4,12 @@ html {
 body {
   background-color: powderblue;
   background-image:
-    url("../images/index_background.png");
+    url("../images/background.png");
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  min-height: 100vh;
+  background-size: 50px 50px;
   margin: 0;
 }
 
@@ -21,7 +21,7 @@ body {
   padding: 5px;
   background-color: #939393;
   border-radius: 15px;
-  border-width: 10px;
+  border-width: 2px;
   border-color:#4c4c4c;
 }
 
