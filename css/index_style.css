@@ -99,7 +99,6 @@ audio {
 }
 
 /*For Phones*/
-/* Hide sidebar on mobile */
 /*Under constraction*/
 
 @media (max-width: 600px) {
@@ -110,7 +109,7 @@ audio {
     font-size: xx-large;
   }
   a:hover {
-    font-size: larger;
+    font-size: xx-large;
   }
   .about_me_text {
     font-size: xx-large;
