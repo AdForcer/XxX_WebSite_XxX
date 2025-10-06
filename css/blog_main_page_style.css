@@ -1,3 +1,15 @@
 .blogmenu {
+    margin-top: 0%;
+    margin-left: 10px;
     align-content: center;
+}
+.website_name {
+    font-size: 50px;
+}
+body {
+    background-color: black;
+}
+.blogmenu {
+    flex-wrap:wrap;
+    word-break: break-all;
 }
