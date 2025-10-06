@@ -1,6 +1,6 @@
 body {
 /* scanlines */
-  background: linear-gradient(to top, #000000, #000000, #333333, #333333);
+  background: linear-gradient(to top, #000000, #000000, #222222, #222222);
   background-size: cover;
   background-size: 100% 4px;
 
@@ -21,7 +21,7 @@ body {
 
 @media screen{
   body {
-    animation: scanlines infinite 35s linear ;
+    animation: scanlines infinite 15s linear ;
   }
 } 
 
