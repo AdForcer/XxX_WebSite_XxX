@@ -110,29 +110,3 @@ audio {
     width:fit-content;
   }
 }
-
-.about_me_text {
-  margin-top: 20px;
-  align-content: center;
-  background-color: #939393;
-  border-radius: 15px;
-  border: 4px solid #4c4c4c;
-  transition: all 0.2s ease;
-}
-.sidebar {
-  background-color: #939393;
-  border-radius: 15px;
-  border: 4px solid #4c4c4c;
-}
-
-.about_me_text {
-  background-color: #939393;
-  border-radius: 15px;
-  border: 4px solid #4c4c4c;
-}
-
-.header {
-  background-color: #939393;
-  border-radius: 15px;
-  border: 4px solid #4c4c4c;
-}
