@@ -13,6 +13,7 @@ body {
 .blogmenu {
     word-break: normal;
 }
-.blog_link {
-    font-size: 15px;
+.blog_link, 
+.blog_text {
+    font-size: 20px;
 }
