@@ -21,7 +21,7 @@ body {
 
 @media screen{
   body {
-    animation: scanlines infinite 55s linear ;
+    animation: scanlines infinite 35s linear ;
   }
 } 
 
